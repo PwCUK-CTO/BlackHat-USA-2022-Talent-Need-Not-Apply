@@ -1,0 +1,19 @@
+Indicator,Type,Filename,Description
+lm-careers[.]com,Domain,n/a,Black Artemis malicious document C2 domain.
+global-job[.]org,Domain,n/a,Black Artemis malicious document C2 domain.
+indeedus[.]org,Domain,n/a,Black Artemis web exploitation domain.
+hxxps://allgraphicart[.]com/logo.png,URL,n/a,Black Artemis-compromised domain used for C2.
+f188eec1268fd49bdc7375fc5b77ded657c150875fede1a4d797f818d2514e88,SHA-256,NG-Opportunity.doc,Black Artemis malicious lure document.
+e2c3913d7e1dee8eae919b8852baf20cf8572852a033fc33eeed2c075a84edd0,SHA-256,Northrop Grumman.doc,Black Artemis malicious lure document.
+ab9915c2308b44b4dffe60b996a4368f9a0a3942f80388aab842a431a6a6f2e4,SHA-256,n/a,Black Artemis malicious lure document.
+140a7856c988c6a00910e20a1178e4fcb61a2495be0e9130408d45d2d5e14900,SHA-256,BAE SYSTEMS_Job_Offer - 2020.doc,Black Artemis malicious lure document.
+0d01b24f7666f9bccf0f16ea97e41e0bc26f4c49cdfb7a4dabcc0a494b44ec9b,SHA-256,Lockheed_Martin_JobOpportunities.docx,Black Artemis malicious lure document.
+8e1746829851d28c555c143ce62283bc011bbd2acfa60909566339118c9c5c97,SHA-256,general_motors_cars.doc,Black Artemis malicious lure document.
+e6dff9a5f74fff3a95e2dcb48b81b05af5cf5be73823d56c10eee80c8f17c845,SHA-256,rheinmetall_job_requirements.doc,Black Artemis malicious lure document.
+294acafed42c6a4f546486636b4859c074e53d74be049df99932804be048f42c,SHA-256,airbus_job_opportunity_confidential.doc,Black Artemis malicious lure document.
+f5563f0e63d9deed90b683a15ebd2a1fda6b72987742afb40a1202ddb9e867d0,SHA-256,DriverGFY.db,Black Artemis 64-bit malicious loader.
+9362425ae690b5bf74782eafe959195f25ac8bad370794efd4a08048141efb32,SHA-256,DriverGFY.db,Black Artemis 32-bit malicious loader.
+5c206b4dc2d3a25205176da9a1129c9f814c030a7bac245e3aaf7dd5d3ca4fbe,SHA-256,DriverGFX.tmp,Black Artemis 64-bit malicious loader.
+3b33b0739107411b978c3cbafb312a44b7488bd7adabae3e7b02059240b6dc83,SHA-256,DriverCacheSH.exe,Black Artemis 64-bit malicious loader.
+1690ce43530acf725f33aa30f715855d226d63276557d0e33fbcaf9b5ff9b84c,SHA-256,DriverCacheSH.exe,Black Artemis 32-bit malicious loader.
+02ddaf831957827c59534a4c1c573759ad0d75876486bd1e5fb07951e6690a5d,SHA-256,DriverGK.lnk,Black Artemis LNK file used to base64-decode a malicious loader.

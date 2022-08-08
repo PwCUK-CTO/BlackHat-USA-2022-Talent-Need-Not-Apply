@@ -1,0 +1,12 @@
+Indicator,Type,Filename,Description
+www[.]gsachshr[.]com,Domain,n/a,Black Alicanto first stage payload-staging and C2 domain.
+ny[.]silvergatehr[.]com,Domain,n/a,Black Alicanto first stage payload-staging and C2 domain.
+mail[.]daiwa-inv[.]com,Domain,n/a,Black Alicanto first stage payload-staging and C2 domain.
+www[.]googlesheetpage[.]org,Domain,n/a,Black Alicanto first stage payload-staging and C2 domain.
+product[.]onlinedoc[.]dev,Domain,n/a,Black Alicanto first stage payload-staging and C2 domain.
+gsheet[.]gdocsdown[.]com,Domain,n/a,Black Alicanto first stage payload-staging and C2 domain.
+page[.]googledocpage[.]com,Domain,n/a,Black Alicanto first stage payload-staging and C2 domain.
+sharemanage[.]elwoodasset[.]xyz,Domain,n/a,Black Alicanto first stage payload-staging and C2 domain.
+3242ed0ade7f7084206fdc7fd53e483f4ba5f99fee88aa2514cd3857d81c26c4,SHA-256,Blockchain Intelligence Group Opportunities.docx.lnk,Black Alicanto malicious double-extension LNK file.
+0f73d0269cf77c53a38fb5863258755e3055979a6343d15573ab2222ce75f49b,SHA-256,JP Morgan Chase Job Opportunities.pdf.lnk,Black Alicanto malicious double-extension LNK file.
+fff9f847b0dab68a2f219c390dc16c066e05830aa6d1bd0cd991000334b12471,SHA-256,SALT Lending Opportunities.pdf.lnk,Black Alicanto malicious double-extension LNK file.
